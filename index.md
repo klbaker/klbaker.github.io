@@ -1,4 +1,4 @@
-![Headshot of Katherine Baker] (./Images/Headshot.png)  
+![Headshot of Katherine Baker] (Images/Headshot.png)  
 # Katherine Baker's User Page  
 Hello, my name is ***Katherine Baker*** and I am a *second-year computer science* student at *UCSD*. I ultimately hope to go to law school to pursure a career as a *patent attorney*.  
 
